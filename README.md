@@ -7,6 +7,7 @@ Simple project structure with a sidebar and a main component to show newly added
 
 ## Project Structure
 Directory structure:
+```plaintext
 └── adityacl12345-project-management/
     ├── README.md
     ├── index.html
@@ -30,6 +31,7 @@ Directory structure:
             ├── ProjectSidebar.jsx
             ├── SelectedProject.jsx
             └── Tasks.jsx
+```
 
 ## 🚀 Getting Started
 
